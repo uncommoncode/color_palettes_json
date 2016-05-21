@@ -48,7 +48,13 @@ There are four main color palette types for different visualization and artistic
 
 ## Multi-Color Palette
 
-Some color palettes have been tuned for different numbers of colors, pariticlarly with qualitative types. The object contains a map of color count to an array of sRGB values. For example, a 3 color map for "BrBG" may look like:
+Some color palettes are fined tuned for the number of colors necessary in the palette. This is especially true of qualitative color palettes. 
+
+The Multi-Color Palette value is an object that has one or more named palettes that contain a name key and value that is a Fixed-Size Palette object.
+
+### Fixed-Size Palette
+
+The Fixed-Size Palette contains a key value map of color count to an array of sRGB values. For example, a 3 color map for the Multi-Color Palette named "BrBG" may look like:
 
 ```
 ...
