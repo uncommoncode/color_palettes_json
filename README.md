@@ -30,7 +30,7 @@ For a colormap with the `named` Color Palette Type this would look like:
 {
   "comment": "Created by Mike Bostock et. al. (https://github.com/d3/d3-color/)\nCreated by Mike Bostock et. al. (https://github.com/d3/d3)", 
   "named": {
-    "aliceblue": [
+    "AliceBlue": [
       240, 
       248, 
       255
@@ -54,7 +54,7 @@ The Multi-Color Palette value is an object that has one or more named palettes t
 
 ### Fixed-Size Palette
 
-The Fixed-Size Palette contains a key value map of color count to an array of sRGB values. For example, a 3 color map for the Multi-Color Palette named "BrBG" may look like:
+The Fixed-Size Palette contains a key value map of color count to an array of sRGB values. Color names are in PascalCase. For example, a 3 color map for the Multi-Color Palette named "BrBG" may look like:
 
 ```
 ...
@@ -83,11 +83,11 @@ The Fixed-Size Palette contains a key value map of color count to an array of sR
 
 ## Single-Color Palette
 
-Single named colors are represented compactly as a key value map between the name of the color and the sRGB value:
+Single named colors are represented compactly as a key value map between the name of the color in PascalCase and the sRGB value:
 
 ```
 ...
-    "aliceblue": [
+    "AliceBlue": [
       240, 
       248, 
       255
