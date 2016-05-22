@@ -1,749 +1,749 @@
 {
   "comment": "These color palettes were developed by Mike Bostock et. al. (https://github.com/d3/d3-color/ and https://github.com/d3/d3)",
   "named": {
-    "aliceblue": [
+    "AliceBlue": [
       240,
       248,
       255
     ],
-    "antiquewhite": [
+    "AntiqueWhite": [
       250,
       235,
       215
     ],
-    "aqua": [
+    "Aqua": [
       0,
       255,
       255
     ],
-    "aquamarine": [
+    "Aquamarine": [
       127,
       255,
       212
     ],
-    "azure": [
+    "Azure": [
       240,
       255,
       255
     ],
-    "beige": [
+    "Beige": [
       245,
       245,
       220
     ],
-    "bisque": [
+    "Bisque": [
       255,
       228,
       196
     ],
-    "black": [
+    "Black": [
       0,
       0,
       0
     ],
-    "blanchedalmond": [
+    "BlanchedAlmond": [
       255,
       235,
       205
     ],
-    "blue": [
+    "Blue": [
       0,
       0,
       255
     ],
-    "blueviolet": [
+    "BlueViolet": [
       138,
       43,
       226
     ],
-    "brown": [
+    "Brown": [
       165,
       42,
       42
     ],
-    "burlywood": [
+    "BurlyWood": [
       222,
       184,
       135
     ],
-    "cadetblue": [
+    "CadetBlue": [
       95,
       158,
       160
     ],
-    "chartreuse": [
+    "Chartreuse": [
       127,
       255,
       0
     ],
-    "chocolate": [
+    "Chocolate": [
       210,
       105,
       30
     ],
-    "coral": [
+    "Coral": [
       255,
       127,
       80
     ],
-    "cornflowerblue": [
+    "CornSilk": [
+      255,
+      248,
+      220
+    ],
+    "CornflowerBlue": [
       100,
       149,
       237
     ],
-    "cornsilk": [
-      255,
-      248,
-      220
-    ],
-    "crimson": [
+    "Crimson": [
       220,
       20,
       60
     ],
-    "cyan": [
+    "Cyan": [
       0,
       255,
       255
     ],
-    "darkblue": [
+    "DarkBlue": [
       0,
       0,
       139
     ],
-    "darkcyan": [
+    "DarkCyan": [
       0,
       139,
       139
     ],
-    "darkgoldenrod": [
+    "DarkGoldenrod": [
       184,
       134,
       11
     ],
-    "darkgray": [
+    "DarkGray": [
       169,
       169,
       169
     ],
-    "darkgreen": [
+    "DarkGreen": [
       0,
       100,
       0
     ],
-    "darkgrey": [
+    "DarkGrey": [
       169,
       169,
       169
     ],
-    "darkkhaki": [
+    "DarkKhaki": [
       189,
       183,
       107
     ],
-    "darkmagenta": [
+    "DarkMagenta": [
       139,
       0,
       139
     ],
-    "darkolivegreen": [
+    "DarkOliveGreen": [
       85,
       107,
       47
     ],
-    "darkorange": [
+    "DarkOrange": [
       255,
       140,
       0
     ],
-    "darkorchid": [
+    "DarkOrchid": [
       153,
       50,
       204
     ],
-    "darkred": [
+    "DarkRed": [
       139,
       0,
       0
     ],
-    "darksalmon": [
+    "DarkSalmon": [
       233,
       150,
       122
     ],
-    "darkseagreen": [
+    "DarkSeaGreen": [
       143,
       188,
       143
     ],
-    "darkslateblue": [
+    "DarkSlateBlue": [
       72,
       61,
       139
     ],
-    "darkslategray": [
+    "DarkSlateGray": [
       47,
       79,
       79
     ],
-    "darkslategrey": [
+    "DarkSlateGrey": [
       47,
       79,
       79
     ],
-    "darkturquoise": [
+    "DarkTurquoise": [
       0,
       206,
       209
     ],
-    "darkviolet": [
+    "DarkViolet": [
       148,
       0,
       211
     ],
-    "deeppink": [
+    "DeepPink": [
       255,
       20,
       147
     ],
-    "deepskyblue": [
+    "DeepSkyBlue": [
       0,
       191,
       255
     ],
-    "dimgray": [
+    "DimGray": [
       105,
       105,
       105
     ],
-    "dimgrey": [
+    "DimGrey": [
       105,
       105,
       105
     ],
-    "dodgerblue": [
+    "DodgerBlue": [
       30,
       144,
       255
     ],
-    "firebrick": [
+    "Firebrick": [
       178,
       34,
       34
     ],
-    "floralwhite": [
+    "FloralWhite": [
       255,
       250,
       240
     ],
-    "forestgreen": [
+    "ForestGreen": [
       34,
       139,
       34
     ],
-    "fuchsia": [
+    "Fuchsia": [
       255,
       0,
       255
     ],
-    "gainsboro": [
+    "Gainsboro": [
       220,
       220,
       220
     ],
-    "ghostwhite": [
+    "GhostWhite": [
       248,
       248,
       255
     ],
-    "gold": [
+    "Gold": [
       255,
       215,
       0
     ],
-    "goldenrod": [
+    "Goldenrod": [
       218,
       165,
       32
     ],
-    "gray": [
+    "Gray": [
       128,
       128,
       128
     ],
-    "green": [
+    "Green": [
       0,
       128,
       0
     ],
-    "greenyellow": [
+    "GreenYellow": [
       173,
       255,
       47
     ],
-    "grey": [
+    "Grey": [
       128,
       128,
       128
     ],
-    "honeydew": [
+    "Honeydew": [
       240,
       255,
       240
     ],
-    "hotpink": [
+    "HotPink": [
       255,
       105,
       180
     ],
-    "indianred": [
+    "IndianRed": [
       205,
       92,
       92
     ],
-    "indigo": [
+    "Indigo": [
       75,
       0,
       130
     ],
-    "ivory": [
+    "Ivory": [
       255,
       255,
       240
     ],
-    "khaki": [
+    "Khaki": [
       240,
       230,
       140
     ],
-    "lavender": [
+    "Lavender": [
       230,
       230,
       250
     ],
-    "lavenderblush": [
+    "LavenderBlush": [
       255,
       240,
       245
     ],
-    "lawngreen": [
+    "LawnGreen": [
       124,
       252,
       0
     ],
-    "lemonchiffon": [
+    "LemonChiffon": [
       255,
       250,
       205
     ],
-    "lightblue": [
+    "LightBlue": [
       173,
       216,
       230
     ],
-    "lightcoral": [
+    "LightCoral": [
       240,
       128,
       128
     ],
-    "lightcyan": [
+    "LightCyan": [
       224,
       255,
       255
     ],
-    "lightgoldenrodyellow": [
+    "LightGoldenrodYellow": [
       250,
       250,
       210
     ],
-    "lightgray": [
+    "LightGray": [
       211,
       211,
       211
     ],
-    "lightgreen": [
+    "LightGreen": [
       144,
       238,
       144
     ],
-    "lightgrey": [
+    "LightGrey": [
       211,
       211,
       211
     ],
-    "lightpink": [
+    "LightPink": [
       255,
       182,
       193
     ],
-    "lightsalmon": [
+    "LightSalmon": [
       255,
       160,
       122
     ],
-    "lightseagreen": [
+    "LightSeaGreen": [
       32,
       178,
       170
     ],
-    "lightskyblue": [
+    "LightSkyBlue": [
       135,
       206,
       250
     ],
-    "lightslategray": [
+    "LightSlateGray": [
       119,
       136,
       153
     ],
-    "lightslategrey": [
+    "LightSlateGrey": [
       119,
       136,
       153
     ],
-    "lightsteelblue": [
+    "LightSteelBlue": [
       176,
       196,
       222
     ],
-    "lightyellow": [
+    "LightYellow": [
       255,
       255,
       224
     ],
-    "lime": [
+    "Lime": [
       0,
       255,
       0
     ],
-    "limegreen": [
+    "LimeGreen": [
       50,
       205,
       50
     ],
-    "linen": [
+    "Linen": [
       250,
       240,
       230
     ],
-    "magenta": [
+    "Magenta": [
       255,
       0,
       255
     ],
-    "maroon": [
+    "Maroon": [
       128,
       0,
       0
     ],
-    "mediumaquamarine": [
+    "MediumAquamarine": [
       102,
       205,
       170
     ],
-    "mediumblue": [
+    "MediumBlue": [
       0,
       0,
       205
     ],
-    "mediumorchid": [
+    "MediumOrchid": [
       186,
       85,
       211
     ],
-    "mediumpurple": [
+    "MediumPurple": [
       147,
       112,
       219
     ],
-    "mediumseagreen": [
+    "MediumSeaGreen": [
       60,
       179,
       113
     ],
-    "mediumslateblue": [
+    "MediumSlateBlue": [
       123,
       104,
       238
     ],
-    "mediumspringgreen": [
+    "MediumSpringGreen": [
       0,
       250,
       154
     ],
-    "mediumturquoise": [
+    "MediumTurquoise": [
       72,
       209,
       204
     ],
-    "mediumvioletred": [
+    "MediumVioletRed": [
       199,
       21,
       133
     ],
-    "midnightblue": [
+    "MidnightBlue": [
       25,
       25,
       112
     ],
-    "mintcream": [
+    "MintCream": [
       245,
       255,
       250
     ],
-    "mistyrose": [
+    "MistyRose": [
       255,
       228,
       225
     ],
-    "moccasin": [
+    "Moccasin": [
       255,
       228,
       181
     ],
-    "navajowhite": [
+    "NavajoWhite": [
       255,
       222,
       173
     ],
-    "navy": [
+    "Navy": [
       0,
       0,
       128
     ],
-    "oldlace": [
+    "OldLace": [
       253,
       245,
       230
     ],
-    "olive": [
+    "Olive": [
       128,
       128,
       0
     ],
-    "olivedrab": [
+    "OliveDrab": [
       107,
       142,
       35
     ],
-    "orange": [
+    "Orange": [
       255,
       165,
       0
     ],
-    "orangered": [
+    "OrangeRed": [
       255,
       69,
       0
     ],
-    "orchid": [
+    "Orchid": [
       218,
       112,
       214
     ],
-    "palegoldenrod": [
+    "PaleGoldenrod": [
       238,
       232,
       170
     ],
-    "palegreen": [
+    "PaleGreen": [
       152,
       251,
       152
     ],
-    "paleturquoise": [
+    "PaleTurquoise": [
       175,
       238,
       238
     ],
-    "palevioletred": [
+    "PaleVioletRed": [
       219,
       112,
       147
     ],
-    "papayawhip": [
+    "PapayaWhip": [
       255,
       239,
       213
     ],
-    "peachpuff": [
+    "PeachPuff": [
       255,
       218,
       185
     ],
-    "peru": [
+    "Peru": [
       205,
       133,
       63
     ],
-    "pink": [
+    "Pink": [
       255,
       192,
       203
     ],
-    "plum": [
+    "Plum": [
       221,
       160,
       221
     ],
-    "powderblue": [
+    "PowderBlue": [
       176,
       224,
       230
     ],
-    "purple": [
+    "Purple": [
       128,
       0,
       128
     ],
-    "rebeccapurple": [
+    "RebeccaPurple": [
       102,
       51,
       153
     ],
-    "red": [
+    "Red": [
       255,
       0,
       0
     ],
-    "rosybrown": [
+    "RosyBrown": [
       188,
       143,
       143
     ],
-    "royalblue": [
+    "RoyalBlue": [
       65,
       105,
       225
     ],
-    "saddlebrown": [
+    "SaddleBrown": [
       139,
       69,
       19
     ],
-    "salmon": [
+    "Salmon": [
       250,
       128,
       114
     ],
-    "sandybrown": [
+    "SandyBrown": [
       244,
       164,
       96
     ],
-    "seagreen": [
+    "SeaGreen": [
       46,
       139,
       87
     ],
-    "seashell": [
+    "SeaShell": [
       255,
       245,
       238
     ],
-    "sienna": [
+    "Sienna": [
       160,
       82,
       45
     ],
-    "silver": [
+    "Silver": [
       192,
       192,
       192
     ],
-    "skyblue": [
+    "SkyBlue": [
       135,
       206,
       235
     ],
-    "slateblue": [
+    "SlateBlue": [
       106,
       90,
       205
     ],
-    "slategray": [
+    "SlateGray": [
       112,
       128,
       144
     ],
-    "slategrey": [
+    "SlateGrey": [
       112,
       128,
       144
     ],
-    "snow": [
+    "Snow": [
       255,
       250,
       250
     ],
-    "springgreen": [
+    "SpringGreen": [
       0,
       255,
       127
     ],
-    "steelblue": [
+    "SteelBlue": [
       70,
       130,
       180
     ],
-    "tan": [
+    "Tan": [
       210,
       180,
       140
     ],
-    "teal": [
+    "Teal": [
       0,
       128,
       128
     ],
-    "thistle": [
+    "Thistle": [
       216,
       191,
       216
     ],
-    "tomato": [
+    "Tomato": [
       255,
       99,
       71
     ],
-    "turquoise": [
+    "Turquoise": [
       64,
       224,
       208
     ],
-    "violet": [
+    "Violet": [
       238,
       130,
       238
     ],
-    "wheat": [
+    "Wheat": [
       245,
       222,
       179
     ],
-    "white": [
+    "White": [
       255,
       255,
       255
     ],
-    "whitesmoke": [
+    "WhiteSmoke": [
       245,
       245,
       245
     ],
-    "yellow": [
+    "Yellow": [
       255,
       255,
       0
     ],
-    "yellowgreen": [
+    "YellowGreen": [
       154,
       205,
       50
     ]
   },
   "qualitative": {
-    "category": {
+    "Category": {
       "10": [
         [
           31,
@@ -899,7 +899,7 @@
         ]
       ]
     },
-    "category_b": {
+    "CategoryB": {
       "20": [
         [
           57,
@@ -1003,7 +1003,7 @@
         ]
       ]
     },
-    "category_c": {
+    "CategoryC": {
       "20": [
         [
           49,
